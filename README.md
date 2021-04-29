@@ -1,5 +1,7 @@
 # AcikHack21MindFramework
 
+Bu dizin, 29.04.2021 tarihinde Türkiye Açık Kaynak Platformu topluluğu moderatörlüğünde gerçekleştirilecek etkinlikte kullanılan dosyaları barındırmaktadır. 
+
 ## Sürüm Notları
 
 ### 1.0.0
