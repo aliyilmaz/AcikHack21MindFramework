@@ -53,4 +53,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Teşekkür
 
-Katılımcılara ve Türkiye Açık Kaynak Platformuna katkıları için teşekkür ederim.
+Katılımcılara, Türkiye Açık Kaynak Platformuna ve diğer katkıcılara teşekkür ederim.
