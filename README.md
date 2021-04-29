@@ -1,6 +1,6 @@
 # AcikHack21MindFramework
 
-Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye Açık Kaynak Platformu" moderatörlüğünde gerçekleştirilecek etkinlikte kullanılması planlanan dosyaları barındırmaktadır.
+Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye Açık Kaynak Platformu" moderatörlüğünde gerçekleştirilen etkinlikte kullanılması planlanan dosyaları barındırmaktadır.
 
 ## Sürüm Notları
 
@@ -24,5 +24,10 @@ Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye 
 ---
 
 
-Etkinlik videosu: https://www.youtube.com/watch?v=4FLe9YHoTTI
+## Etkinlik videosu: 
+https://youtu.be/4FLe9YHoTTI?t=3761
+
+
+## Etkinlik afişi
+![](etkinlik-afisi.jpg)
 
