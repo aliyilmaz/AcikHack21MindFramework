@@ -32,3 +32,6 @@ $Mind->route('/', 'app/views/welcome');
 // $Mind->route('test', 'app/views/rotalar/test2', 'app/controller/rotalar/Test2Controller:ekle');
 
 
+// gruplanmış rotalar
+// $Mind->route('test', 'app/views/rotalar/group0');
+
