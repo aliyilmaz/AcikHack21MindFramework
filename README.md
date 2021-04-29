@@ -1,26 +1,5 @@
 # AcikHack21MindFramework
 
-## License
-
-Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye Açık Kaynak Platformu" moderatörlüğünde gerçekleştirilen etkinlikte kullanılan dosyalarıbarındırmaktadır.
-
-Copyright (C) 2021, Ali Yılmaz and contributors 
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-
-
 ## Sürüm Notları
 
 ### 1.0.0
@@ -50,3 +29,28 @@ https://youtu.be/4FLe9YHoTTI?t=3761
 ## Etkinlik afişi
 ![](etkinlik-afisi.jpg)
 
+
+## License
+
+Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye Açık Kaynak Platformu" moderatörlüğünde gerçekleştirilen etkinlikte kullanılan dosyaları barındırmaktadır.
+
+Bu dizinde bulunan proje dosyaları **GPL3** lisansı altında paylaşılmıştır. Youtube videosu, Etkinlik afişi, Moderatörlük gibi etkinlik organizasyonuyla ilgili katkılar **"Türkiye Açık Kaynak Platformu"** tarafından gerçekleştirilmiştir.
+
+Copyright (C) 2021, Ali Yılmaz and contributors 
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Teşekkür
+
+Katılımcılara ve Türkiye Açık Kaynak Platformuna katkıları için teşekkür ederim.
