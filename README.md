@@ -24,3 +24,5 @@ Bu dizin, 29.04.2021 tarihinde saat 18:00-19:00 arasında Discord'ta, "Türkiye 
 ---
 
 
+Etkinlik videosu: https://www.youtube.com/watch?v=4FLe9YHoTTI
+
