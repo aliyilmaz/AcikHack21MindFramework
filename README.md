@@ -1,6 +1,6 @@
 # AcikHack21MindFramework
 
-## Sürümü Notları
+## Sürüm Notları
 
 ### 1.0.0
 
